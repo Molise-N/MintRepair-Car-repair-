@@ -1,0 +1,5 @@
+Lesotho Property Hub
+in order to run this application, you first have to export the 2 file sql into xampp then already registered users can be used to log in or a new user can be registered but he/she should be in the NID system for him to be registered.
+
+
+
